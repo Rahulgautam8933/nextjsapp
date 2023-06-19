@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "netlify": "^13.1.9",
     "next": "13.4.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
